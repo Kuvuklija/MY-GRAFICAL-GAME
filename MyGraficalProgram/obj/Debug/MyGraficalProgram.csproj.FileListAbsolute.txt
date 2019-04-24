@@ -1,0 +1,179 @@
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojResolveAssemblyReference.cache
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.Cache
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+G:\Скачивание\MyGraficalProgram-20180205T102503Z-001\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+G:\Скачивание\MyGraficalProgram-20180205T102503Z-001\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+G:\Скачивание\MyGraficalProgram-20180205T102503Z-001\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+G:\Скачивание\MyGraficalProgram-20180205T102503Z-001\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+G:\Скачивание\MyGraficalProgram-20180205T102503Z-001\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojResolveAssemblyReference.cache
+G:\Скачивание\MyGraficalProgram-20180205T102503Z-001\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+G:\Скачивание\MyGraficalProgram-20180205T102503Z-001\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.Cache
+G:\Скачивание\MyGraficalProgram-20180205T102503Z-001\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+G:\Скачивание\MyGraficalProgram-20180205T102503Z-001\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Beehive_Simulator.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojResolveAssemblyReference.cache
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Beehive_Simulator.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.Cache
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojResolveAssemblyReference.cache
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Beehive_Simulator.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.Cache
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.dll
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.xml
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.BeeControl.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FieldForm.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.House_1_Hive.resources
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.dll
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.xml
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojResolveAssemblyReference.cache
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.BeeControl.resources
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Beehive_Simulator.resources
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FieldForm.resources
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.House_1_Hive.resources
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.Cache
+G:\Скачивание\MyGraficalProgram-20180414T073544Z-001\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FireConrol.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.dll
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.xml
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojResolveAssemblyReference.cache
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.BeeControl.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Beehive_Simulator.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FieldForm.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FireConrol.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.House_1_Hive.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.Cache
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojResolveAssemblyReference.cache
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.BeeControl.resources
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Beehive_Simulator.resources
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FieldForm.resources
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FireConrol.resources
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.House_1_Hive.resources
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.Cache
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.dll
+G:\Скачивание\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.xml
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.dll
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.xml
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojResolveAssemblyReference.cache
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.BeeControl.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FieldForm.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.House_1_Hive.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.Cache
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.dll
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.xml
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojResolveAssemblyReference.cache
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.BeeControl.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Beehive_Simulator.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FieldForm.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FireConrol.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.House_1_Hive.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.Cache
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FlowersUser.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FlowersUser.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.MainForm.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.dll
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.xml
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojResolveAssemblyReference.cache
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.BeeControl.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Beehive_Simulator.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FieldForm.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FlowersUser.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.House_1_Hive.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.MainForm.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.Cache
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.dll
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.xml
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojResolveAssemblyReference.cache
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.BeeControl.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Beehive_Simulator.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FieldForm.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FlowersUser.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.House_1_Hive.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.MainForm.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+C:\РУСТ\С#\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.Cache
+Z:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.MainForm.resources
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.dll
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.xml
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojAssemblyReference.cache
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FlowersUser.resources
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.cache
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.CoreCompileInputs.cache
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.CopyComplete
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FieldForm1.resources
+F:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.MainForm.resources
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe.config
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.exe
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\MyGraficalProgram.pdb
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.dll
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\bin\Debug\NAudio.xml
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csprojAssemblyReference.cache
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FieldForm1.resources
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.FlowersUser.resources
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.MainForm.resources
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.Properties.Resources.resources
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.GenerateResource.cache
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.CoreCompileInputs.cache
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.csproj.CopyComplete
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.exe
+G:\C#\Repite Stilman And My Grafic\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\MyGraficalProgram\obj\Debug\MyGraficalProgram.pdb
